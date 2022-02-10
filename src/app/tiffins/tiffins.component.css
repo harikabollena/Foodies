@@ -1,0 +1,22 @@
+h5{
+    font-size:25px;
+}
+.card{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+list-style-type: none;
+padding: 0;
+
+
+border: 1px solid whitesmoke;
+border-radius: 1 rem;
+margin: 1rem;
+display: flex;
+flex-direction: row;
+overflow: hidden;
+color: rgb(99, 71, 255);
+display: inline-flex;
+display: center;
+}
